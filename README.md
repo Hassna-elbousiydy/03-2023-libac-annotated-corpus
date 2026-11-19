@@ -8,7 +8,7 @@ Research publication by **Hassna El-Bousiydy and collaborators** · Publication 
 
 Hassna El-Bousiydy, Javier F. Troncoso, Patrik Johansson and Alejandro A. Franco.
 
-*Chemistry of Materials*, 35(5), 1849–1857 (2023). First published online: **21 February 2023**; journal issue: **14 March 2023**.
+*Chemistry of Materials*, 35(5), 1849-1857 (2023). First published online: **21 February 2023**; journal issue: **14 March 2023**.
 
 **[Read the article and find its supporting information →](https://doi.org/10.1021/acs.chemmater.2c01356)**
 
@@ -36,8 +36,8 @@ The publisher displays © 2023 American Chemical Society. Redistribution permiss
 
 ## Publication sequence
 
-1. [Battery text mining](https://github.com/Hassna-elbousiydy/01-2021-battery-text-mining) — January 2021.
-2. [AI applied to battery research](https://github.com/Hassna-elbousiydy/02-2021-ai-battery-research-review) — September 2021 online; 2022 journal issue.
-3. **LIBAC** — February 2023.
+1. [Battery text mining](https://github.com/Hassna-elbousiydy/01-2021-battery-text-mining) - January 2021.
+2. [AI applied to battery research](https://github.com/Hassna-elbousiydy/02-2021-ai-battery-research-review) - September 2021 online; 2022 journal issue.
+3. **LIBAC** - February 2023.
 
-Dates above refer to publications, not to GitHub activity. Companion repositories may require access while private.
+Dates above refer to publications, not to GitHub activity.
